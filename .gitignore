@@ -2,5 +2,3 @@
 /.vscode/
 kafka/kafka_data/
 kafka/kui/
-prometheus/prometheus.yml
-prometheus/rules.yml
