@@ -1,0 +1,8 @@
+serviecs:
+  redis:
+    image: redis:latest
+    restart: always
+    volumes:
+      - ./deploy/redis:/data
+    ports:
+      - "6380:6379"
