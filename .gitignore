@@ -1,6 +1,6 @@
 /.idea/
 /.vscode/
-./kafka/kfaka_data/
-./kafka/kui/
-./prometheus/prometheus.yaml
-./prometheus/rules.yaml
+kafka/kafka_data/
+kafka/kui/
+prometheus/prometheus.yml
+prometheus/rules.yml
